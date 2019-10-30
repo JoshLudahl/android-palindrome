@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">palindrome</string>
+    <string name="word_hint_string">Enter a word</string>
+    <string name="button_submit">Submit</string>
+    <string name="word_result_strong">Result</string>
+    <string name="result_summary_string">Summary</string>
+    <string name="palindrome_yay">This is a palindrome!</string>
+    <string name="palindrome_nay">This is NOT a palindrome! </string>
+    <string name="toast_invalid_word">Please enter a word to continue.</string>
+</resources>
